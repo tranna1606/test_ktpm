@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 thay doi l?n 2
 
+=======
+thay doi file thong bao
+>>>>>>> 244fc5c2ee6172f46435bee23ef441a0a31d582d
